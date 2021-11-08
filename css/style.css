@@ -1,0 +1,52 @@
+/* Universal Styles */
+
+html{
+  background-color: black;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+body{
+  text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+
+a{
+  color: Aquamarine;
+  font-size: 0.761rem;
+  text-decoration: underline;
+}
+
+.cell-mockup{
+  display: block;
+}
+
+.travel-guide{
+  margin-top: 3rem;
+}
+h2{
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+.travel-guide p{
+  color: gray;
+  font-size: 21px;
+}
+
+.coming-soon{
+  padding-top: 4rem;
+}
+
+
+h5{
+  text-align: right;
+  color: gray;
+  font-size: 0.8rem;
+}
